@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)
 
 
 👨‍💻研究... 画像処理
