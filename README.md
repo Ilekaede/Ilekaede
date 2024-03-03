@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
+
 👨‍💻研究... 画像処理
 
 🔍興味... 機械学習，Web開発
