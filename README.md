@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👨‍💻研究... 画像処理
+🔍興味... 機械学習，Web開発
+🌟ポートフォリオ... https://ilekaede.github.io/
 <!--
 **Ilekaede/Ilekaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
