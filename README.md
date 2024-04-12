@@ -7,7 +7,8 @@
 
 🔍興味... 機械学習，Web開発
 
-🌟ポートフォリオ... https://ilekaede.github.io/
+🌟ポートフォリオ... いま作成中です><
+
 <!--
 **Ilekaede/Ilekaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
