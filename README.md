@@ -7,7 +7,7 @@
 
 🔍興味... 機械学習，Web開発
 
-🌟ポートフォリオ... いま作成中です><
+🌟ポートフォリオ... https://blog-mu-murex.vercel.app
 
 <!--
 **Ilekaede/Ilekaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
