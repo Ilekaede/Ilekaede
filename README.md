@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)
 
+Programming Languages
+![](https://skillicons.dev/icons?i=python,c++,js,typescript,java,html,css)
 
 👨‍💻研究... 画像処理
 
