@@ -4,8 +4,10 @@
 
 Programming Languages
 
-![](https://skillicons.dev/icons?i=python,cpp,js,typescript,java,html,css)
+![](https://skillicons.dev/icons?i=python,cpp,js,typescript,java,html,css,ruby)
 
+Framework
+![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
 👨‍💻研究... 画像処理
 
 🔍興味... 機械学習，Web開発
