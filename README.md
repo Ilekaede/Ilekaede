@@ -2,18 +2,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)
 
-Programming Languages
+- Programming Languages
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,typescript,java,html,css,ruby)
 
-Framework
+- Framework
+
 ![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
 
-👨‍💻研究... 画像処理
 
-🔍興味... 機械学習，Web開発
+👨‍💻Lab work... Image Processing, Data analysis
 
-🌟ポートフォリオ... https://blog-mu-murex.vercel.app
+
+🔍Interesting... Machine Learning，Web development
+
+
+🌟Portfolio... https://blog-mu-murex.vercel.app
 
 <!--
 **Ilekaede/Ilekaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
