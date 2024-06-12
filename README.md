@@ -8,6 +8,7 @@ Programming Languages
 
 Framework
 ![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
+
 👨‍💻研究... 画像処理
 
 🔍興味... 機械学習，Web開発
