@@ -11,11 +11,11 @@
 ![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
 
 
-👨‍💻Lab work... Image Processing, Data analysis
+👨‍💻Lab work... Image Processing, Data Analysis, Machine Learning
 
+🔍Interesting... Machine Learning，Web Development
 
-🔍Interesting... Machine Learning，Web development
-
+✏️Internship... GA Technologies様, 株式会社いい生活様 
 
 🌟Portfolio... https://blog-mu-murex.vercel.app
 
