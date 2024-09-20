@@ -1,23 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilekaede&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact&theme=cobalt)
 
-- Programming Languages
+## 🌱 Programming Languages
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,typescript,java,html,css,ruby)
 
-- Framework
+## 🍀 Framework
 
 ![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
 
 
-👨‍💻Lab work... Image Processing, Data Analysis, Machine Learning
+## 👨‍💻Lab work
+- Image Processing
+- Data Analysis
+- Machine Learning
 
-🔍Interesting... Machine Learning，Web Development
+## 🔍Interesting
+- Machine Learning
+- Web Development
 
-✏️Internship... GA Technologies様, 株式会社いい生活様 
+## ✏️Internship
+- GA Technologies様
+- 株式会社いい生活様 
 
-🌟Portfolio... https://blog-mu-murex.vercel.app
+## 🌟Portfolio
+- https://blog-mu-murex.vercel.app
+
+![](https://komarev.com/ghpvc/?username=Ilekaede&color=blueviolet)
 
 <!--
 **Ilekaede/Ilekaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
