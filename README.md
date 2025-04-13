@@ -9,7 +9,7 @@
 
 ## 🍀 Framework
 
-![](https://skillicons.dev/icons?i=fastapi,react,nextjs)
+![](https://skillicons.dev/icons?i=fastapi,react,nextjs,vuejs)
 
 
 ## 👨‍💻Lab work
