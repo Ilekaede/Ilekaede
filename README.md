@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilekaede&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilekaede&layout=compact&theme=cobalt)
-
 ## 🌱 Programming Languages
 
 ![](https://skillicons.dev/icons?i=python,cpp,js,typescript,java,html,css,ruby)
