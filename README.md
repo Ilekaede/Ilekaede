@@ -8,19 +8,10 @@
 
 ![](https://skillicons.dev/icons?i=fastapi,react,nextjs,vuejs)
 
-
-## 👨‍💻Lab work
-- Image Processing
-- Data Analysis
-- Machine Learning
-
 ## 🔍Interesting
 - Machine Learning
 - Web Development
 
-## ✏️Internship
-- GA Technologies様
-- 株式会社いい生活様 
 
 ## 🌟Portfolio
 - https://blog-mu-murex.vercel.app
